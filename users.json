@@ -1,12 +1,5 @@
 [
     {
-        "id": 2,
-        "username": "nash",
-        "password": "$2y$12$9jt/o/UuWN51.maZXwpAOuBoiZc8syFiK5nCZ.Kzi1AjLB1RfIPuS",
-        "remark": "",
-        "status": "enabled"
-    },
-    {
         "id": 1,
         "username": "admin",
         "password": "$2y$12$3tI..hjMZiTVcAS546crvunvjiqfktQrH5O9zDmPxSGnUr5VGOO1G",
