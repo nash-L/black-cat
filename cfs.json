@@ -4,7 +4,9 @@
         "key": "Y2ZrX3prRGtjMzFLN0l2Q25GOXVYWkZCS1VpOUZwV1EzZXhMYlRiSXU0MDJkNmE5NGEyMw==",
         "email": "896076336@qq.com",
         "remark": "",
-        "status": "enabled"
+        "status": "enabled",
+        "user": null,
+        "token": null
     },
     {
         "id": 1,
