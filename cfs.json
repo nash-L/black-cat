@@ -4,6 +4,11 @@
         "key": "Y2ZrX01oeVJlTnlyRE82NXJaalpGc1p0TFl1WU5iWHFPamZ1azlHUGpTdXNiMzc1ZjkzYQ==",
         "email": "nashlwy@gmail.com",
         "remark": "",
-        "status": "enabled"
+        "status": "enabled",
+        "user": {
+            "id": "dad16867fd87d342119f43ccebf44cb8",
+            "username": "0ce9fea5187e64a1b9241e2e579a8195"
+        },
+        "token": "Y2Z1dF9yR2JuZW5ESmRWS3hhcnVrQjJSUVVrbm9VdHBlUEphRUZmR082UkdNNmFlZmJmMTU="
     }
 ]
