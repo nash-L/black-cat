@@ -5,8 +5,11 @@
         "email": "896076336@qq.com",
         "remark": "",
         "status": "enabled",
-        "user": null,
-        "token": null
+        "user": {
+            "id": "727048344e328a94391fa8a1019b55f4",
+            "username": "c80327d5e598e771a6b0ad581d5d4bdf"
+        },
+        "token": "Y2Z1dF9paExUNXd2M3NLV0E5TXl1SUZYT0ZEVERPMTFFdHE1alZpWTJpRVBDMGY0OGUwNWI="
     },
     {
         "id": 1,
