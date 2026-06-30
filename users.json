@@ -1,33 +1,5 @@
 [
     {
-        "id": 7,
-        "username": "nash-Liu3",
-        "password": "$2y$12$YEPTtO.KdEq.HssYY6dju.Tzv1cZNvZZaXSL92tlCuiD0A31Ai0tu",
-        "remark": "",
-        "status": "enabled"
-    },
-    {
-        "id": 6,
-        "username": "nash-Liu2",
-        "password": "$2y$12$PyfkyNN.0i8efl8/9wUE5ugTTms6LKhkTFBCIzJi2zlPLKP4m4Ycu",
-        "remark": "",
-        "status": "enabled"
-    },
-    {
-        "id": 5,
-        "username": "nash-Liu1",
-        "password": "$2y$12$eabUPEGNE.SVFB/Wgoh7buLDa.vYRDAykAcZWbrMwZ63/rHou4BUC",
-        "remark": "",
-        "status": "enabled"
-    },
-    {
-        "id": 4,
-        "username": "nash",
-        "password": "$2y$12$WkN2bZCFGtvemN5mWui1LelQWK4oEnHaOyLUfSdF1KVQ9tDMCa0B6",
-        "remark": "",
-        "status": "enabled"
-    },
-    {
         "id": 1,
         "username": "admin",
         "password": "$2y$12$3tI..hjMZiTVcAS546crvunvjiqfktQrH5O9zDmPxSGnUr5VGOO1G",
