@@ -14,21 +14,5 @@
             "id": "480051c1653c37e96779b50d1f01c5d2",
             "name": "896076336@qq.com's Account"
         }
-    },
-    {
-        "id": 1,
-        "key": "Y2ZrX01oeVJlTnlyRE82NXJaalpGc1p0TFl1WU5iWHFPamZ1azlHUGpTdXNiMzc1ZjkzYQ==",
-        "email": "nashlwy@gmail.com",
-        "remark": "",
-        "status": "enabled",
-        "user": {
-            "id": "dad16867fd87d342119f43ccebf44cb8",
-            "username": "0ce9fea5187e64a1b9241e2e579a8195"
-        },
-        "account": {
-            "id": "4be5426a92ee0d7652ebac26111bfb27",
-            "name": "Nashlwy@gmail.com's Account"
-        },
-        "token": "Y2Z1dF9yR2JuZW5ESmRWS3hhcnVrQjJSUVVrbm9VdHBlUEphRUZmR082UkdNNmFlZmJmMTU="
     }
 ]
