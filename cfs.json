@@ -1,25 +1,5 @@
 [
     {
-        "id": 12,
-        "key": "Y2ZrX01oeVJlTnlyRE82NXJaalpGc1p0TFl1WU5iWHFPamZ1azlHUGpTdXNiMzc1ZjkzYQ==",
-        "email": "nashlwy@gmail.com",
-        "status": "enabled",
-        "remark": "",
-        "user": {
-            "id": "dad16867fd87d342119f43ccebf44cb8",
-            "username": "0ce9fea5187e64a1b9241e2e579a8195"
-        },
-        "token": "Y2Z1dF9ZVDhDTFVtS0cxUUdYQkVUbE5mTkQ2U2NLbGRhUVVpU3NPUVVhc0JpNjg2Y2Q0Nzg=",
-        "account": {
-            "id": "4be5426a92ee0d7652ebac26111bfb27",
-            "name": "Nashlwy@gmail.com's Account"
-        },
-        "worker": {
-            "id": "8a3b65de1fe841f6a40c8b3e1f867441",
-            "name": "55e13175135f49ed9a2527417f48932f-worker"
-        }
-    },
-    {
         "id": 3,
         "key": "Y2ZrX3prRGtjMzFLN0l2Q25GOXVYWkZCS1VpOUZwV1EzZXhMYlRiSXU0MDJkNmE5NGEyMw==",
         "email": "896076336@qq.com",
