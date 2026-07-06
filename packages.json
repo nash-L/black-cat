@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "id": 15,
+        "identifier": "bbc.pxozfid.store",
+        "type": "ios",
+        "name": "IBKH Pro",
+        "businessUrl": "https://www.google.com",
+        "ipFilter": "VPS,Google LLC,Apple Inc,chinanet,tencent,centurylink,Microsoft Corporation,googleusercontent,google,Microsoft,Contabo,Amazon",
+        "ipWhitelist": "",
+        "deviceWhitelist": "",
+        "status": "enable",
+        "icon": null,
+        "syncUrl": null,
+        "entryUrl": null,
+        "privacyUrl": null,
+        "supportUrl": null,
+        "repository_id": null,
+        "cf_id": null,
+        "user_id": null,
+        "productTime": 300
+    }
+]
