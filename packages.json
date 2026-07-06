@@ -1,6 +1,6 @@
 [
     {
-        "id": 13,
+        "id": 14,
         "identifier": "bbc.pxozfid.store",
         "type": "ios",
         "name": "IBKH Pro",
@@ -8,14 +8,14 @@
         "ipFilter": "VPS,Google LLC,Apple Inc,chinanet,tencent,centurylink,Microsoft Corporation,googleusercontent,google,Microsoft,Contabo,Amazon",
         "ipWhitelist": "",
         "deviceWhitelist": "",
-        "status": "error: Client error: `POST https://1603bf6d0960332edc69cf0bbb38d1d6-worker.896076336.workers.dev/black-cat` resulted in a `404 Not Found` response:\nerror code: 1042\n\n",
-        "icon": null,
-        "syncUrl": null,
-        "entryUrl": null,
-        "privacyUrl": null,
-        "supportUrl": null,
-        "repository_id": null,
-        "cf_id": null,
+        "status": "enable",
+        "icon": "https://lolatmeqylhanxhiu225-sketch.github.io/234/app-14/icon.jpg",
+        "syncUrl": "https://lolatmeqylhanxhiu225-sketch.github.io/234/app-14/conf.json",
+        "entryUrl": "https://lolatmeqylhanxhiu225-sketch.github.io/234/app-14/entry.html",
+        "privacyUrl": "https://lolatmeqylhanxhiu225-sketch.github.io/234/app-14/privacy.html",
+        "supportUrl": "https://lolatmeqylhanxhiu225-sketch.github.io/234/app-14/support.html",
+        "repository_id": 1,
+        "cf_id": 17,
         "user_id": null,
         "productTime": 300
     }
