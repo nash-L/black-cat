@@ -1,6 +1,6 @@
 [
     {
-        "id": 5,
+        "id": 7,
         "identifier": "bbc.pxozfid.store",
         "type": "ios",
         "name": "IBKH Pro",
@@ -8,7 +8,7 @@
         "ipFilter": "VPS,Google LLC,Apple Inc,chinanet,tencent,centurylink,Microsoft Corporation,googleusercontent,google,Microsoft,Contabo,Amazon",
         "ipWhitelist": "",
         "deviceWhitelist": "",
-        "status": "error: getimagesize(): Read of 8192 bytes failed with errno=21 Is a directory",
+        "status": "enable",
         "icon": null,
         "syncUrl": null,
         "entryUrl": null,
