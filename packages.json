@@ -1,6 +1,6 @@
 [
     {
-        "id": 8,
+        "id": 9,
         "identifier": "bbc.pxozfid.store",
         "type": "ios",
         "name": "IBKH Pro",
@@ -8,7 +8,7 @@
         "ipFilter": "VPS,Google LLC,Apple Inc,chinanet,tencent,centurylink,Microsoft Corporation,googleusercontent,google,Microsoft,Contabo,Amazon",
         "ipWhitelist": "",
         "deviceWhitelist": "",
-        "status": "error: cURL error 35: TLS connect error: error:0A000126:SSL routines::unexpected eof while reading (see https://curl.se/libcurl/c/libcurl-errors.html) for https://1603bf6d0960332edc69cf0bbb38d1d6-worker.896076336.workers.dev/black-cat",
+        "status": "enable",
         "icon": null,
         "syncUrl": null,
         "entryUrl": null,
