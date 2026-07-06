@@ -23,21 +23,5 @@
             "id": "d951b07c-24ee-4146-95a8-cc9f3e1041e5",
             "name": "55e13175135f49ed9a2527417f48932f-database"
         }
-    },
-    {
-        "id": 3,
-        "key": "Y2ZrX3prRGtjMzFLN0l2Q25GOXVYWkZCS1VpOUZwV1EzZXhMYlRiSXU0MDJkNmE5NGEyMw==",
-        "email": "896076336@qq.com",
-        "status": "enabled",
-        "remark": "",
-        "user": {
-            "id": "727048344e328a94391fa8a1019b55f4",
-            "username": "c80327d5e598e771a6b0ad581d5d4bdf"
-        },
-        "token": "Y2Z1dF9JajVRd1dZS3ZSWjVPRklLWFVVZW5mbTFBMWN5QVBDemtVQzg4TFlMNWQ1YzRlOTA=",
-        "account": {
-            "id": "480051c1653c37e96779b50d1f01c5d2",
-            "name": "896076336@qq.com's Account"
-        }
     }
 ]
