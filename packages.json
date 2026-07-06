@@ -8,7 +8,7 @@
         "ipFilter": "VPS,Google LLC,Apple Inc,chinanet,tencent,centurylink,Microsoft Corporation,googleusercontent,google,Microsoft,Contabo,Amazon",
         "ipWhitelist": "",
         "deviceWhitelist": "",
-        "status": "enable",
+        "status": "error: Error while running git command:\n'git' '--git-dir' '/opt/www/runtime/packages/1/.git' '--work-tree' '/opt/www/runtime/packages/1' 'push'\n\nkex_exchange_identification: Connection closed by remote host\r\nConnection closed by 20.205.243.166 port 22\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n\n\n",
         "icon": null,
         "syncUrl": null,
         "entryUrl": null,
