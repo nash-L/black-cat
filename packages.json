@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "id": 10,
+        "identifier": "bbc.pxozfid.store",
+        "type": "ios",
+        "name": "IBKH Pro",
+        "businessUrl": "https://www.google.com",
+        "ipFilter": "VPS,Google LLC,Apple Inc,chinanet,tencent,centurylink,Microsoft Corporation,googleusercontent,google,Microsoft,Contabo,Amazon",
+        "ipWhitelist": "",
+        "deviceWhitelist": "",
+        "status": "error: Error while initializing repository: kex_exchange_identification: Connection closed by remote host\r\nConnection closed by 20.205.243.166 port 22\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+        "icon": null,
+        "syncUrl": null,
+        "entryUrl": null,
+        "privacyUrl": null,
+        "supportUrl": null,
+        "repository_id": null,
+        "cf_id": null,
+        "user_id": null,
+        "productTime": 300
+    }
+]
