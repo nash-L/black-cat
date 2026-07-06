@@ -1,6 +1,6 @@
 [
     {
-        "id": 3,
+        "id": 4,
         "identifier": "bbc.pxozfid.store",
         "type": "ios",
         "name": "IBKH Pro",
@@ -8,7 +8,7 @@
         "ipFilter": "VPS,Google LLC,Apple Inc,chinanet,tencent,centurylink,Microsoft Corporation,googleusercontent,google,Microsoft,Contabo,Amazon",
         "ipWhitelist": "",
         "deviceWhitelist": "",
-        "status": "error: Path must not be empty",
+        "status": "error: Error while initializing repository: fatal: destination path '/opt/www/runtime/packages/3' already exists and is not an empty directory.\n",
         "icon": null,
         "syncUrl": null,
         "entryUrl": null,
