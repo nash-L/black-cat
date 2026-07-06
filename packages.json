@@ -1,6 +1,6 @@
 [
     {
-        "id": 10,
+        "id": 11,
         "identifier": "bbc.pxozfid.store",
         "type": "ios",
         "name": "IBKH Pro",
@@ -8,7 +8,7 @@
         "ipFilter": "VPS,Google LLC,Apple Inc,chinanet,tencent,centurylink,Microsoft Corporation,googleusercontent,google,Microsoft,Contabo,Amazon",
         "ipWhitelist": "",
         "deviceWhitelist": "",
-        "status": "error: Error while initializing repository: kex_exchange_identification: Connection closed by remote host\r\nConnection closed by 20.205.243.166 port 22\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+        "status": "error: Client error: `POST https://1603bf6d0960332edc69cf0bbb38d1d6-worker.896076336.workers.dev/black-cat` resulted in a `404 Not Found` response:\nerror code: 1042\n\n",
         "icon": null,
         "syncUrl": null,
         "entryUrl": null,
