@@ -5,11 +5,24 @@
         "email": "896076336@qq.com",
         "status": "enabled",
         "remark": "",
-        "user": null,
-        "token": null,
-        "account": null,
-        "worker": null,
-        "database": null
+        "user": {
+            "id": "727048344e328a94391fa8a1019b55f4",
+            "name": "c80327d5e598e771a6b0ad581d5d4bdf"
+        },
+        "token": "Y2Z1dF9jaEg4MFljb1BFc3lDTHd6S005V0todURuT2xjbWZYVGQ4QzRkSUpmNGUyMzk0NTY=",
+        "account": {
+            "id": "480051c1653c37e96779b50d1f01c5d2",
+            "name": "896076336@qq.com's Account"
+        },
+        "worker": {
+            "id": "c947c757a6324fcc8d2d52199bf1d33a",
+            "name": "1603bf6d0960332edc69cf0bbb38d1d6-worker",
+            "domain": "https://1603bf6d0960332edc69cf0bbb38d1d6-worker.896076336.workers.dev"
+        },
+        "database": {
+            "id": "72759f8d-08a5-4e6a-b1b8-c56aeb6f621d",
+            "name": "1603bf6d0960332edc69cf0bbb38d1d6-database"
+        }
     },
     {
         "id": 17,
