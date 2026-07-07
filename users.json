@@ -1,12 +1,5 @@
 [
     {
-        "id": 10,
-        "username": "opop",
-        "password": "$2y$12$JbUybGtzy5IpX07VOeCZReRnVe8uMcRMye2yl/rntJmHbzNAQGZMq",
-        "remark": "asdasaaawaqsd",
-        "status": "enabled"
-    },
-    {
         "id": 9,
         "username": "test",
         "password": "$2y$12$xHQAKeuzWRzfjEuWy9P7Uu6DnOLeQlkey5ebjG2F8F00kcWKKivZG",
