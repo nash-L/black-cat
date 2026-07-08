@@ -8,7 +8,7 @@
         "ipFilter": "VPS,Google LLC,Apple Inc,chinanet,tencent,centurylink,Microsoft Corporation,googleusercontent,google,Microsoft,Contabo,Amazon",
         "ipWhitelist": "",
         "deviceWhitelist": "",
-        "status": "enable",
+        "status": "enabled",
         "icon": "https://sarabiapddro-hue.github.io/235/app-15/icon.jpg",
         "syncUrl": "https://sarabiapddro-hue.github.io/235/app-15/conf.json",
         "entryUrl": "https://sarabiapddro-hue.github.io/235/app-15/entry.html",
