@@ -23,30 +23,5 @@
             "id": "72759f8d-08a5-4e6a-b1b8-c56aeb6f621d",
             "name": "1603bf6d0960332edc69cf0bbb38d1d6-database"
         }
-    },
-    {
-        "id": 17,
-        "key": "Y2ZrX01oeVJlTnlyRE82NXJaalpGc1p0TFl1WU5iWHFPamZ1azlHUGpTdXNiMzc1ZjkzYQ==",
-        "email": "nashlwy@gmail.com",
-        "status": "enabled",
-        "remark": "",
-        "user": {
-            "id": "dad16867fd87d342119f43ccebf44cb8",
-            "name": "0ce9fea5187e64a1b9241e2e579a8195"
-        },
-        "token": "Y2Z1dF9MdGIxWTNTRkFxVzdlbmhyZ1pQVG9MUk5LWksyM1hkUGdPYlVBSjRDMDI2MzRmY2U=",
-        "account": {
-            "id": "4be5426a92ee0d7652ebac26111bfb27",
-            "name": "Nashlwy@gmail.com's Account"
-        },
-        "worker": {
-            "id": "8a3b65de1fe841f6a40c8b3e1f867441",
-            "name": "55e13175135f49ed9a2527417f48932f-worker",
-            "domain": "https://55e13175135f49ed9a2527417f48932f-worker.nashlwy.workers.dev"
-        },
-        "database": {
-            "id": "d951b07c-24ee-4146-95a8-cc9f3e1041e5",
-            "name": "55e13175135f49ed9a2527417f48932f-database"
-        }
     }
 ]
