@@ -1,14 +1,27 @@
 [
     {
-        "id": 2,
+        "id": 3,
         "key": "Y2ZrX3pXSjFwTUV4eVZTbW15UXNvajl1UEVzQlc5a3NGanRHMzhRU1Z0Qlo5NTU5Zjg5OQ==",
         "email": "asdw1236987452026@163.com",
         "status": "enabled",
         "remark": "",
-        "user": null,
-        "token": null,
-        "account": null,
-        "worker": null,
-        "database": null
+        "user": {
+            "id": "21dfad9a24b443ec233b675a2aa0d295",
+            "name": "8c1f0f20ebaefac3b89cea18f5b87397"
+        },
+        "token": "Y2Z1dF9lMFAzTGtBNmVQUnpoamhvdTJRNHQ0SnU1MGZhY0ZqTEY5V2gwWFFBMThhYjQxOWE=",
+        "account": {
+            "id": "8f78887674c8ed088620a23c43713737",
+            "name": "Asdw1236987452026@163.com's Account"
+        },
+        "worker": {
+            "id": "9fe23b145e834fc19d3d89f49a54b4ba",
+            "name": "5d360db01707237897ac968251156eb0-worker",
+            "domain": "https://5d360db01707237897ac968251156eb0-worker.asdw1236987452026.workers.dev"
+        },
+        "database": {
+            "id": "ebfc6cd6-b430-486b-906c-dfced6e57044",
+            "name": "5d360db01707237897ac968251156eb0-database"
+        }
     }
 ]
