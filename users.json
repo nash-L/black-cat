@@ -3,7 +3,7 @@
         "id": 3,
         "username": "test",
         "password": "$2y$12$Rk3uobRK3gxDvib7ck9jr.ppDSbWznDT7Hw3Y/2DnzJglL3zIpxui",
-        "remark": "",
+        "remark": "备注信息",
         "status": "enabled"
     },
     {
