@@ -1,1 +1,24 @@
-[]
+[
+    {
+        "id": 3,
+        "identifier": "abc",
+        "type": "ios",
+        "name": "abc",
+        "businessUrl": "https://www.google.com",
+        "ipFilter": null,
+        "ipWhitelist": null,
+        "deviceWhitelist": null,
+        "status": null,
+        "icon": "https://rojasbarry42-png.github.io/64/app-3/icon.jpg",
+        "syncUrl": "https://rojasbarry42-png.github.io/64/app-3/conf.json",
+        "entryUrl": "https://rojasbarry42-png.github.io/64/app-3/entry.html",
+        "privacyUrl": "https://rojasbarry42-png.github.io/64/app-3/privacy.html",
+        "supportUrl": "https://rojasbarry42-png.github.io/64/app-3/support.html",
+        "repository_id": 1,
+        "cf_id": [
+            3
+        ],
+        "user_id": null,
+        "productTime": 300
+    }
+]
