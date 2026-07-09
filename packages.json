@@ -8,7 +8,7 @@
         "ipFilter": null,
         "ipWhitelist": null,
         "deviceWhitelist": null,
-        "status": null,
+        "status": "enabled",
         "icon": "https://rojasbarry42-png.github.io/64/app-3/icon.jpg",
         "syncUrl": "https://rojasbarry42-png.github.io/64/app-3/conf.json",
         "entryUrl": "https://rojasbarry42-png.github.io/64/app-3/entry.html",
