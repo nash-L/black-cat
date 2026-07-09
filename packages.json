@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "id": 2,
+        "identifier": "abc",
+        "type": "ios",
+        "name": "abc",
+        "businessUrl": "https://www.google.com",
+        "ipFilter": null,
+        "ipWhitelist": null,
+        "deviceWhitelist": null,
+        "status": "error: Error while initializing repository: fatal: destination path '/opt/www/runtime/packages/1' already exists and is not an empty directory.\n",
+        "icon": null,
+        "syncUrl": null,
+        "entryUrl": null,
+        "privacyUrl": null,
+        "supportUrl": null,
+        "repository_id": null,
+        "cf_id": [],
+        "user_id": null,
+        "productTime": 300
+    }
+]
