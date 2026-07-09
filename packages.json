@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "id": 1,
+        "identifier": "abc",
+        "type": "android",
+        "name": "test",
+        "businessUrl": "https://www.google.com",
+        "ipFilter": null,
+        "ipWhitelist": null,
+        "deviceWhitelist": null,
+        "status": "error: array_rand(): Argument #2 ($num) must be between 1 and the number of elements in argument #1 ($array)",
+        "icon": null,
+        "syncUrl": null,
+        "entryUrl": null,
+        "privacyUrl": null,
+        "supportUrl": null,
+        "repository_id": null,
+        "cf_id": [],
+        "user_id": null,
+        "productTime": 300
+    }
+]
