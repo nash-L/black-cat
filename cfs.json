@@ -5,11 +5,24 @@
         "email": "TaoBaaaeyfa@gmail.com",
         "status": "enabled",
         "remark": "test",
-        "user": null,
-        "token": null,
-        "account": null,
-        "worker": null,
-        "database": null
+        "user": {
+            "id": "f0f4ad76d64af5c6f40cbf668b9874f0",
+            "name": "552f1fc1584b5e3af850074ef07af47f"
+        },
+        "token": "Y2Z1dF8wekFZdTlVNVBMSjJxdzhRcWZnQnFIM3ZqblA1ekNJYW01WEJoc00wODA4ZDQ4NDM=",
+        "account": {
+            "id": "10ffd7fcbd71fc1c9f0231665f27df21",
+            "name": "Taobaaaeyfa@gmail.com's Account"
+        },
+        "worker": {
+            "id": "51e7f787f641482e89cf2db44ada251d",
+            "name": "7256df34b34768362ef35b552108e87a-worker",
+            "domain": "https://7256df34b34768362ef35b552108e87a-worker.TaoBaaaeyfa.workers.dev"
+        },
+        "database": {
+            "id": "d2abd0f4-49b4-4c43-bf47-4050d4eb0a1e",
+            "name": "7256df34b34768362ef35b552108e87a-database"
+        }
     },
     {
         "id": 3,
